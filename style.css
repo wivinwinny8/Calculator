@@ -50,6 +50,7 @@ body{
 .numpad button{
     font-size: 45px;
     border: 2px solid rgb(0, 0, 0);
+    font-family: monospace;
 }
 
 .itemnum{
